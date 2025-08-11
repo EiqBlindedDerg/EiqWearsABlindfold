@@ -32,4 +32,4 @@ To learn more about using Docsify, visit https://docsify.js.org. -->
 ### Ëiq Wears a Blindfold
 
 Proof: 
-![MeAndBro](EiqWearsABlindfold/EiqandVizhentDesktop.png)
+![MeAndBro](/EiqWearsABlindfold/EiqandVizhentDesktop.png)

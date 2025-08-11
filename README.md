@@ -1,4 +1,4 @@
-# Docsify Template
+<!-- # Docsify Template
 
 > A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
 
@@ -28,4 +28,4 @@ Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users)
 
 ## Docsify Documentation
 
-To learn more about using Docsify, visit https://docsify.js.org.
+To learn more about using Docsify, visit https://docsify.js.org. -->

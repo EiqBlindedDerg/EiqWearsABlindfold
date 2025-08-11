@@ -33,3 +33,5 @@ To learn more about using Docsify, visit https://docsify.js.org. -->
 
 Proof: 
 ![MeAndBro](EiqandVizhentDesktop.jpg)
+
+Oh yeah I paint too. Ignore the other guy.
